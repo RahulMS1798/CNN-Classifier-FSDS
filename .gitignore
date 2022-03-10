@@ -130,3 +130,5 @@ dmypy.json
 
 # ingnore env
 env/
+
+data.zip
